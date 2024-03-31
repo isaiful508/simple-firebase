@@ -1,3 +1,7 @@
+Here is the simple firebase thirdparty log in practice.step has _step.js file
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
